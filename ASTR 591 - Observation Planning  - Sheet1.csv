@@ -1,0 +1,7 @@
+Cluster,RA (2000),Dec (2000),Galactic Longitude,Galactic Latitude,Distance,Reddening,Distance Modulus,Log Age,Metallicity,Image,Angular Diameter,CCD/CMD Photometry Source,Do plots contain possible cluster members?,Extra CCD Photometry Source,,,,Notes
+Roslund 1,19 45 00,=+17 31 12,54.60,-3.39,670,0.05,9.29,8.47,,Roslund 1,"24,629 arcsecs",yes,no,Roslund 1,,,,"low angular diameter, few stars and very sparse "
+Berkeley 82,19 11 24,=+13 04 00,46.815,1.586,860,1.021,12.84,7.493,,Berkeley 82,"19,187 arcsecs",yes,yes,Berkeley 82,,,,"low angular diameter, few stars, small stars"
+NGC 1647,04 45 55,=+19 06 54,180.337,-16.772,540,0.370,9.81,8.158,,NGC 1647,"13,751 arcsecs",yes,yes,NGC 1647,,,,"very low angular diameter for a good amount of stars, medium level of density"
+NGC 6709,18 51 18,=+10 19 06,42.120,4.715,1075,0.304,11.10,8.178,,NGC 6709,"44,131 arcsecs",yes,yes,NGC 6709,,,,larger angular diameter but a good spread of stars
+Harvard 20,19 53 06,=+18 20 00,56.279,-4.654,1540,0.247,11.70,7.476,,Harvard 20,"~ 26,787 arcsecs",yes,maybe?,none,,,,"no cluster chart, but very few stars and low angular diameter"
+King 26 ,19 29 00,=+14 52 00,50.410,1.339,2600,1.27,16.01,8.64,,King 26 ,"47,599 arcsecs","no, JHK magnitude diagram",yes,none,,,,"larger angular diameter and more dense, but still a good amount of distance between stars"
